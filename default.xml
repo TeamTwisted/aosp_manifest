@@ -453,7 +453,7 @@
   <project path="frameworks/opt/hardware" name="TeamTwisted/frameworks_opt_hardware" remote="github" revision="cm-12.1" />
   <project path="system/core" name="TeamTwisted/system_core" remote="github" revision="m6.0" />
   <project path="vendor/twisted" name="TeamTwisted/platform_vendor_twisted" remote="github" revision="m6.0" />
-
+  <project path="device/huawei/angler" name="TeamTwisted/platform_device_huawei_angler" remote="github" revision="b6.0" />
   <!--Non Google/Twisted Sources -->
   <project path="external/google" name="CyanogenMod/android_external_google" remote="github" revision="cm-12.1" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="github" revision="cm-12.1" />
